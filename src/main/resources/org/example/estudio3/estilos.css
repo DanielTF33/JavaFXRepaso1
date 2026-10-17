@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: lightcyan;
+}
+
+#titulo {
+    -fx-font-family: "MS Gothic";
+    -fx-font-weight: bold;
+}
+
+#btnEliminar {
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+
+#btnAnadir {
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-background-color: lightgreen;
+}
